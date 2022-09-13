@@ -107,6 +107,7 @@
     font-size: 2rem;
     display: none;
     cursor: pointer;
+    transition: 0.4s;
   }
   .fa-facebook:hover {
     color: rgb(0, 110, 255);
