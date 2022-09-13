@@ -22,5 +22,4 @@ function show(){
 }
 function close(){
     mainMenu.style.bottom = '-100%';
-    mainMenu.style.transition = 'all 0.6s';
 }
