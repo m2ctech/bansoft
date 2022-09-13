@@ -22,4 +22,5 @@ function show(){
 }
 function close(){
     mainMenu.style.bottom = '-100%';
+    mainMenu.style.transition = 'all 0.3s';
 }
